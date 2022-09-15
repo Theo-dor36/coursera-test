@@ -1,2 +1,2 @@
 # coursera-test
-Second commit to repository
+Hello Coursera!
