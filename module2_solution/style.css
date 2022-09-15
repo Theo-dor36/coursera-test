@@ -49,7 +49,7 @@ p{
 	}
 }
 
-/* Tablet PC view */
+/* Tablet view */
 @media (min-width: 768px) and (max-width: 991px) {
  
   .col-md-6 {
@@ -61,7 +61,7 @@ p{
     float: left;
   }
 }
-/* Cell phone view */
+/* Mobile view */
 @media (max-width: 767px)  {
   
   .col-sx-12 {
