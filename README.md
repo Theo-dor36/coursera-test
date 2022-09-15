@@ -1,2 +1,2 @@
 # coursera-test
-Coursera Test Repository
+Second commit to repository
