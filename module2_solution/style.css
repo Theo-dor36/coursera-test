@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.section{
+    display: inline-block;
+    margin: 20px 30px;
+    border: 3px solid black;
+    background-color: grey;
+    position: relative;
+}
+.title1,.title2,.title3{
+    border: 3px solid black;
+    font-size: 24px;
+    width: 150px;
+    position: absolute;
+    float: right;top: 0;right: 0;margin: 0;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.title1{
+    background-color: palevioletred;
+}
+.title2{
+    background-color: red;
+    color: white;
+}
+.title3{
+    background-color: lightsalmon;
+}
+p{
+    margin-top: 40px;
+    padding: 10px;
+}
